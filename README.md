@@ -13,6 +13,7 @@ MODEL SUMMARY-
  ![MNIST Dataset](img1.png)
 
 🔹 Features and model summary
+
 ✅ Deep Learning Model: Uses a CNN to accurately classify handwritten digits
 
 ✅ Dataset: Trained on the MNIST dataset (60,000 training + 10,000 test images)
