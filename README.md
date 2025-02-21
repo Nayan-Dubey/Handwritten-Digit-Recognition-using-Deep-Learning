@@ -3,7 +3,7 @@ This project implements Handwritten Digit Recognition using Deep Learning. A Con
 A neural network is made up by stacking layers of neurons, and is defined by the weights 
 of connections and biases of neurons. Activations are a result dependent on a certain input.
 
-This structure is known as a feedforward architecture because the connections in the network flow forward from the input layer to the output layer without any feedback loops. In this figure:
+This structure is known as a feedforward architecture because the connections in the network flow forward from the input layer to the output layer without any feedback loops.
 ![Small Labelled Neural Network](http://i.imgur.com/HdfentB.png)
 
 ![MNIST Dataset](img22.png)
